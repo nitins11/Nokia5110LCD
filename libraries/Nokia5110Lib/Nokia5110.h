@@ -2,7 +2,8 @@
 // FILE: Nokia5110.cpp
 // AUTHOR: Nitin Sharma
 // VERSION: 0.1.00
-// PURPOSE: Nokia 5110 lcd library for Arduino
+// PURPOSE: Nokia 5110 lcd library for Arduino. Print simple strings on the lcd using
+// this library
 //
 // HISTORY:
 // See Nokia5110.cpp
