@@ -1,5 +1,8 @@
-arduino
-lcd
-nokia 5110
-library
-display
+Nokia5110	KEYWORD1
+
+initLCD	KEYWORD2
+LcdXY	KEYWORD2
+LcdWriteString	KEYWORD2
+clearLCD	KEYWORD2
+
+ASCII	LITERAL1
